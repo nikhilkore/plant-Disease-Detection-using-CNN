@@ -1,4 +1,4 @@
-# plant-Disease-Detection-using-CNN
+# Plant-Disease-Detection-using-CNN
  The Project deals with the real time detection of diseases that affect the plant and the area affected using Convolutional neural network (CNN) Model. Convolutional neural network models were developed to perform plant disease detection and diagnosis using simple leaves images of healthy and diseased plants, through deep learning methodologies. So that appropriate fertilizers can be used to prevent further damage to plants from pathogenic viruses.
 
 # problem Statement:
